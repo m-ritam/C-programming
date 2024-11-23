@@ -1,4 +1,4 @@
-// Calculate HCF or LCM of any amount of numbers
+//  Calculate HCF or LCM of any amount of numbers
 #include <stdio.h>
 
 int findHCF(int a, int b) {
